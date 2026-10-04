@@ -1,0 +1,9 @@
+job_title,category,match_percentage,matched_count,missing_count,missing_skills,tfidf_similarity,nlp_similarity_percentage,final_score
+Junior Data Scientist,Data Science,85.71,6,1,['statistics'],0.27612955587280813,27.61,68.28
+Data Analyst,Data Analytics,66.67,4,2,"['statistics', 'excel']",0.11258237200906984,11.26,50.04
+Frontend Developer,Software Engineering,57.14,4,3,"['rest apis', 'react', 'testing']",0.1121458923285508,11.21,43.36
+Machine Learning Engineer,Machine Learning,50.0,4,4,"['tensorflow', 'pytorch', 'linux', 'docker']",0.1766571797202595,17.67,40.3
+NLP Engineer,Machine Learning,42.86,3,4,"['transformers', 'pytorch', 'tf-idf', 'nlp']",0.10977012046867338,10.98,33.29
+Backend Developer,Software Engineering,37.5,3,5,"['docker', 'spring boot', 'rest apis', 'linux', 'testing']",0.037733494582623185,3.77,27.38
+DevOps Engineer,Cloud and DevOps,28.57,2,5,"['kubernetes', 'aws', 'docker', 'linux', 'ci/cd']",0.09737307398185113,9.74,22.92
+AI Research Assistant,Artificial Intelligence,28.57,2,5,"['tensorflow', 'statistics', 'deep learning', 'pytorch', 'mathematics']",0.029279518398645284,2.93,20.88

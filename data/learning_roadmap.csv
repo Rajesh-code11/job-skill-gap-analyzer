@@ -1,0 +1,19 @@
+skill,job_count,priority_score,priority_level
+Linux,3,50.0,High
+Statistics,3,50.0,High
+Docker,3,50.0,High
+PyTorch,3,50.0,High
+TensorFlow,2,33.33,Medium
+REST APIs,2,33.33,Medium
+Testing,2,33.33,Medium
+Spring Boot,1,16.67,Low
+React,1,16.67,Low
+Excel,1,16.67,Low
+Mathematics,1,16.67,Low
+Deep Learning,1,16.67,Low
+Kubernetes,1,16.67,Low
+AWS,1,16.67,Low
+CI/CD,1,16.67,Low
+NLP,1,16.67,Low
+TF-IDF,1,16.67,Low
+Transformers,1,16.67,Low
